@@ -6,7 +6,7 @@
 
 ## Orbital sequences
 
-![Orbital sequences](orbitals sequences.jpg)
+![Orbital sequences](orbitals_sequences.jpg)
 
 ## Orbitals
 
