@@ -4,6 +4,10 @@
 
 ![Periodic table](periodic_table.png)
 
+## Orbital sequences
+
+![Orbital sequences](orbitals sequences.jpg)
+
 ## Orbitals
 
 ![Orbitals](orbitals.jpg)
